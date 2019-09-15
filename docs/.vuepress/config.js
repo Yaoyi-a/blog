@@ -5,8 +5,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/logo.png' }]
   ],
   themeConfig: {
-    nav: [
-      { text: '笔ji心得', link: '/note/' },
+    nav: [ { text: '笔ji心得', link: '/note/' },
       { text: '个人空间', link: 'https://user.qzone.qq.com/158737832/main' },
     {Text:'u校园',link:'https://u.unipus.cn'}]
     ,sidebar: 'auto'
