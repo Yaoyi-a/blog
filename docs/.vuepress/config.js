@@ -1,8 +1,5 @@
 module.exports = {
-  title: "((yaoyi's blog Interval(() => {
-    
-  }, interval);) => {  
-  }, interval);",
+  title: "yaoyi's blog ",
   description: "姚欢的个人博客",
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }]
