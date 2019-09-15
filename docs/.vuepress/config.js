@@ -7,7 +7,7 @@ module.exports = {
   themeConfig: {
     nav: [ { text: '笔ji心得', link: '/note/' },
       { text: '个人空间', link: 'https://user.qzone.qq.com/158737832/main' },
-    {text:'u校园',link:'https://u.unipus.cn'}]
+    { text: 'u校园', link: 'https://u.unipus.cn' }]
     ,sidebar: 'auto'
     // sidebar: [
     //   '/',
