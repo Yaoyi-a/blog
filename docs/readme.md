@@ -28,19 +28,9 @@ var a = 1;
 
 ```html
 <head>
-  <title>经</title>
+  <title>经过四分钟的学习</title>
 </head>
 ```
 
- |           周一            | iasod                    |               jiajsd |
- | :-----------------------: | :----------------------- | -------------------: |
- | jisadddddddddddddddddddda | jaasssssssssssssssssisdj | aasddddddddddddjisdj |
- |           jsad            | kaoskd                   |                kasdk |
-
- | x   | 1   | 2   | 3   |
- | --- | --- | --- | --- |
- | 1   | 1   | 2   | 3   |
- | 2   | 2   | 4   | 6   |
- | 3   | 3   | 6   | 9   |
-
-|
+|今日无事|明天上课|后天上课|
+|-|-|-|
