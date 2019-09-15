@@ -1,6 +1,7 @@
 module.exports = {
-  title: "yaoyi's blog(() => {
+  title: "((yaoyi's blog Interval(() => {
     
+  }, interval);) => {  
   }, interval);",
   description: "姚欢的个人博客",
   head: [
