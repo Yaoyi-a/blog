@@ -1,0 +1,23 @@
+{
+  "name": "博客示例",
+  "short_name": "Blog DEMO",
+  "description": "博客示例",
+  "lang": "zh-CN",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/icon/chrome192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon/chrome512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#46bd87",
+  "theme_color": "#46bd87"
+}
