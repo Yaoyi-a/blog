@@ -10,6 +10,6 @@ deploy:
   skip-cleanup: true
   local_dir: dist
   github-token: $Github_Token
-  # keep-history: true
+  keep-history: true
   on:
     branch: master
