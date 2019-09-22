@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-theme-mrhope",
+  "version": "0.0.1",
+  "description": "this is a vuepress theme",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nenuyouth/VuepressTemplate.git"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "Nr.Hope",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nenuyouth/VuepressTemplate/issues"
+  },
+  "homepage": "https://vuepress-example.netlify.com",
+  "dependencies": {}
+}

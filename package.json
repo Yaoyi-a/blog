@@ -1,16 +1,25 @@
 {
-  "name": "zcc",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "there and here",
-  "main": "index.js",
+  "description": "个人博客",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
+    "serve": "vuepress dev src",
+    "cleanServe": "vuepress dev src --no-cache",
+    "build": "vuepress build src",
+    "build-with-base": "VuePress_BASE=/VuepressTemplate/ vuepress build src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Mr.Hope",
+  "license": "MIT",
   "dependencies": {
+    "moment": "^2.24.0",
     "vuepress": "^1.1.0"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.1.0",
+    "@vuepress/plugin-pwa": "^1.1.0",
+    "eslint": "^6.4.0",
+    "screenfull": "4.2.1",
+    "vuepress-plugin-named-chunks": "^1.0.2"
   }
 }
