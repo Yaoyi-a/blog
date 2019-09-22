@@ -2,7 +2,7 @@
  * @Author: Mr.Hope
  * @Date: 2019-07-05 00:14:26
  * @LastEditors: Mr.Hope
- * @LastEditTime: 2019-09-22 14:20:16
+ * @LastEditTime: 2019-09-22 14:39:44
  * @Description: Vuepress配置
  */
 
@@ -22,7 +22,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.ico' }],
 
     // 设置网站作者
-    ['meta', { name: 'author', content: 'Mr.Hope' }],
+    ['meta', { name: 'author', content: '姚欢' }],
 
     // 移动端App体验
     ['meta', {
